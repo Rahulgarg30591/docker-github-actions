@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Starting BrowserSync\" && exit 1"
+    "test": "echo \"Starting BrowserSync\""
   },
   "keywords": [],
   "author": "",
